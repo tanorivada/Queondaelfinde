@@ -47,6 +47,7 @@ h2{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    font-size: 16px;
 }
 
 /* imagenes */
@@ -77,7 +78,7 @@ footer{
 
     
 /* diseño responsive */
-    @media (max-width: 768px){
+    @media (max-width: 368px){
         header{
             text-align: left;
         }
@@ -98,14 +99,14 @@ footer{
         .flex-container3{
             width: 20px;
             height: 20px;
-            font-size: 20px;
+            font-size: 16px;
         }
 
         body{
             display: block;
             margin: 0px;
             padding: 0.2px;
-            font-size: 20px;
+            font-size: 16px;
         }
     
         .contenido{

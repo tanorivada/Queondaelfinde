@@ -8,14 +8,14 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".remo").hover(
         function() {$(this).attr("src","Imagenes/remo.jpg");},
-        function() {$(this).attr("src","imagenes/remo2.jpg");
+        function() {$(this).attr("src","./imagenes/remo2.jpg");
     });
 });
 
 $(document).ready(function(){
     $(".bicicleta").hover(
         function() {$(this).attr("src","Imagenes/bicicleta.jpg.png");},
-        function() {$(this).attr("src","Imagenes/bici2.jpg");
+        function() {$(this).attr("src","./Imagenes/bici2.jpg");
     });
 });
 

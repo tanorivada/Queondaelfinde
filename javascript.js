@@ -8,7 +8,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".remo").hover(
         function() {$(this).attr("src","Imagenes/remo.jpg");},
-        function() {$(this).attr("src","./imagenes/remo2.jpg");
+        function() {$(this).attr("src","Imagenes/remo2.jpg");
     });
 });
 
@@ -22,14 +22,14 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".parques").hover(
         function() {$(this).attr("src","Imagenes/parques.jpg");},
-        function() {$(this).attr("src","Imagenes/parques2.jpg");
+        function() {$(this).attr("src","./Imagenes/parques2.jpg");
     });
 });
 
 $(document).ready(function(){
     $(".fuente").hover(
         function() {$(this).attr("src","Imagenes/fuente.jpg");},
-        function() {$(this).attr("src","Imagenes/costanera.jpg");
+        function() {$(this).attr("src","./Imagenes/costanera.jpg");
     });
 });
 
@@ -43,7 +43,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".restauran").hover(
         function() {$(this).attr("src","Imagenes/restauran plaza.jpg");},
-        function() {$(this).attr("src","Imagenes/restauran.jpg");
+        function() {$(this).attr("src","./Imagenes/restauran.jpg");
     });
 });
 
@@ -64,14 +64,14 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".boliche").hover(
         function() {$(this).attr("src","Imagenes/boliche.jpg");},
-        function() {$(this).attr("src","Imagenes/discotecas.jpg");
+        function() {$(this).attr("src","./Imagenes/discotecas.jpg");
     });
 });
 
 $(document).ready(function(){
     $(".recitales").hover(
         function() {$(this).attr("src","Imagenes/recitales.jpg");},
-        function() {$(this).attr("src","Imagenes/recitales2.jpg");
+        function() {$(this).attr("src","./Imagenes/recitales2.jpg");
     });
 });
 

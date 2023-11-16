@@ -21,14 +21,14 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".parques").hover(
-        function() {$(this).attr("src","./Imagenes/parques2.jpg");},
+        function() {$(this).attr("src","Imagenes/Parques2.jpg");},
         function() {$(this).attr("src","Imagenes/parques.jpg");
     });
 });
 
 $(document).ready(function(){
     $(".fuente").hover(
-        function() {$(this).attr("src","./Imagenes/costanera.jpg");},
+        function() {$(this).attr("src","Imagenes/Costanera.jpg");},
         function() {$(this).attr("src","Imagenes/fuente.jpg");
     });
 });
@@ -42,7 +42,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".restauran").hover(
-        function() {$(this).attr("src","./Imagenes/restauran.jpg");},
+        function() {$(this).attr("src","Imagenes/Restauran.jpg");},
         function() {$(this).attr("src","Imagenes/restauran plaza.jpg");
     });
 });
@@ -56,21 +56,21 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".coctel").hover(
-        function() {$(this).attr("src","Imagenes/bares y pubs.jpg");},
+        function() {$(this).attr("src","Imagenes/Bares y Pubs.jpg");},
         function() {$(this).attr("src","Imagenes/coctel.jpg");
     });
 });
 
 $(document).ready(function(){
     $(".boliche").hover(
-        function() {$(this).attr("src","./Imagenes/discotecas.jpg");},
+        function() {$(this).attr("src","Imagenes/Discotecas.jpg");},
         function() {$(this).attr("src","Imagenes/boliche.jpg");
     });
 });
 
 $(document).ready(function(){
     $(".recitales").hover(
-        function() {$(this).attr("src","./Imagenes/recitales2.jpg");},
+        function() {$(this).attr("src","Imagenes/Recitales2.jpg");},
         function() {$(this).attr("src","Imagenes/recitales.jpg");
     });
 });
